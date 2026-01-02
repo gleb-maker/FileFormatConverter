@@ -22,4 +22,5 @@ With this application, you can:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-account/FileFormatConverter.git
+   git clone https://github.com/gleb-maker/FileFormatConverter.git
+
